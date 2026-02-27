@@ -1,0 +1,90 @@
+INTERVIEW TRANSCRIPT
+Position: Senior Software Engineer
+Date: 2025-02-15
+Interviewer: Mr. Raghav Mehta (Technical Recruiter)
+Candidate: Ananya Krishnan
+
+---
+
+Raghav: Good morning, Ananya. Thank you for coming in today. Let's get started. Can you tell me a little about yourself and your background?
+
+Ananya: Good morning, thank you for having me. I have about 6 years of experience in software engineering, currently working as a backend developer at TechNova Solutions. I specialize in Python, microservices architecture, and cloud deployments.
+
+Raghav: That sounds great. What attracted you to this role at our company?
+
+Ananya: I've been following your product for a while. The scale of the engineering challenges here — handling millions of transactions daily — is exactly the kind of problem I want to solve.
+
+Raghav: Wonderful. Can you walk me through a technically challenging project you worked on recently?
+
+Ananya: Sure. I led the migration of our monolithic payment system to a microservices architecture. We broke it into 12 services, implemented event-driven communication using Kafka, and reduced latency by 40%.
+
+Raghav: Impressive. How did you handle team coordination during that project?
+
+Ananya: We used two-week sprints, daily standups, and I personally ran the architecture review meetings. I also set up a shared documentation system so everyone stayed aligned.
+
+Raghav: Nice. Now, I have to ask — you seem quite young for this level of experience. How old are you exactly?
+
+Ananya: I'm... 28 years old.
+
+Raghav: Oh, 28. That's quite young to be leading architecture decisions. Most of our senior engineers are in their late 30s and 40s. Do you think you can handle a team of people much older than you?
+
+Ananya: I believe leadership is about competence and communication, not age. I've successfully led teams with members ranging from fresh graduates to 15-year veterans.
+
+Raghav: Fair enough. Let's move on. What programming languages are you most comfortable with?
+
+Ananya: Python is my primary language. I also work extensively with Go for performance-critical services, and I'm comfortable with JavaScript for frontend tasks.
+
+Raghav: Good. Can you explain how you would design a rate-limiting system for our API?
+
+Ananya: I would use a token bucket algorithm, implement it at the API gateway level using Redis for distributed state management, and configure different rate limits per API key tier.
+
+Raghav: Solid answer. Now, I noticed from your resume that you're from Kerala originally. Where is your family settled now? Do they all still live there?
+
+Ananya: My family is in Kochi, but I've been living in Bangalore for the past 5 years.
+
+Raghav: I see. And I hope you don't mind me asking — are you married? We sometimes have late-night deployments and weekend on-call rotations, so I just want to make sure there won't be any issues with availability.
+
+Ananya: I'd prefer to focus on my professional qualifications. I'm fully committed to meeting the demands of any role I take on, including on-call duties.
+
+Raghav: Of course, of course. No offense intended. Let's talk about system design. How would you approach building a notification system that sends 10 million notifications per day?
+
+Ananya: I would use a message queue like RabbitMQ or SQS to decouple the notification triggers from delivery. Then implement worker pools for each channel — email, SMS, push — with retry logic and dead-letter queues for failures.
+
+Raghav: That's well thought out. How do you handle disagreements with team members?
+
+Ananya: I try to understand their perspective first. If it's a technical disagreement, I suggest we prototype both approaches and let the data decide. If it's interpersonal, I address it privately and directly.
+
+Raghav: Good approach. What's your experience with databases?
+
+Ananya: I've worked extensively with PostgreSQL for transactional data, MongoDB for document storage, and Redis for caching. I'm also experienced with database optimization — query tuning, indexing strategies, and partitioning.
+
+Raghav: Now, this role involves some client-facing work. Our major clients are mostly based in the US and UK. Given that you're from a South Indian background, are you comfortable communicating in English for extended business discussions?
+
+Ananya: Absolutely. English has been my primary professional language throughout my career. I've regularly presented to international stakeholders and clients.
+
+Raghav: Great. Can you tell me about a time you had to deal with a production outage?
+
+Ananya: Last year we had a database connection pool exhaustion during a traffic spike. I led the incident response — we identified the root cause within 20 minutes, implemented connection pooling fixes, and had full recovery within an hour. I then led the post-mortem and implemented monitoring to prevent recurrence.
+
+Raghav: Excellent crisis management. What are your salary expectations?
+
+Ananya: Based on my research and experience level, I'm looking at a range of 28 to 32 lakhs per annum, but I'm open to discussion based on the total compensation package.
+
+Raghav: That's within our range. Do you have any questions for me?
+
+Ananya: Yes — what does the engineering culture look like here? How are technical decisions made?
+
+Raghav: We're very collaborative. Engineers own their systems end-to-end, and we have architecture review boards for major decisions. It's a flat hierarchy in engineering.
+
+Ananya: That sounds great. One more — what does the growth path look like for this role?
+
+Raghav: Senior engineers typically move into either Staff Engineer (technical track) or Engineering Manager (people track) within 2-3 years, based on performance and preference.
+
+Ananya: Thank you, that's very helpful.
+
+Raghav: Wonderful. Thank you for your time, Ananya. We'll get back to you within a week with next steps.
+
+Ananya: Thank you, Raghav. I look forward to hearing from you.
+
+---
+END OF TRANSCRIPT

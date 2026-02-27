@@ -1,0 +1,91 @@
+[
+    {
+        "role_id": "ROLE001",
+        "title": "Machine Learning Lead",
+        "department": "Engineering",
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "Team Leadership",
+            "TensorFlow"
+        ],
+        "seniority": "Senior",
+        "location": "Bangalore",
+        "description": "Lead the ML team in building recommendation systems and predictive analytics pipelines. Requires strong hands-on ML experience and team management skills."
+    },
+    {
+        "role_id": "ROLE002",
+        "title": "Frontend Engineering Manager",
+        "department": "Engineering",
+        "required_skills": [
+            "JavaScript",
+            "React",
+            "Team Leadership",
+            "System Design",
+            "Agile"
+        ],
+        "seniority": "Senior",
+        "location": "Bangalore",
+        "description": "Manage a team of 8 frontend engineers building the customer-facing web portal. Must have deep React expertise and people management experience."
+    },
+    {
+        "role_id": "ROLE003",
+        "title": "Regional Sales Head — South India",
+        "department": "Sales",
+        "required_skills": [
+            "Negotiation",
+            "Team Leadership",
+            "Market Analysis",
+            "Strategy",
+            "Revenue Planning"
+        ],
+        "seniority": "Senior",
+        "location": "Chennai",
+        "description": "Own the entire South India sales region. Build and manage a team of 15+ sales executives and hit quarterly revenue targets."
+    },
+    {
+        "role_id": "ROLE004",
+        "title": "Customer Experience Analyst",
+        "department": "Support",
+        "required_skills": [
+            "Data Analysis",
+            "Customer Service",
+            "Communication",
+            "Excel",
+            "SQL"
+        ],
+        "seniority": "Mid-Level",
+        "location": "Pune",
+        "description": "Analyze customer support tickets to identify patterns, reduce resolution times, and improve customer satisfaction scores."
+    },
+    {
+        "role_id": "ROLE005",
+        "title": "HR Analytics Specialist",
+        "department": "HR",
+        "required_skills": [
+            "Data Analysis",
+            "Python",
+            "Statistics",
+            "Employee Relations",
+            "Compliance"
+        ],
+        "seniority": "Mid-Level",
+        "location": "Mumbai",
+        "description": "Build dashboards and reports to help HR leadership make data-driven decisions about workforce planning, retention, and engagement."
+    },
+    {
+        "role_id": "ROLE006",
+        "title": "Cloud Infrastructure Engineer",
+        "department": "Engineering",
+        "required_skills": [
+            "Cloud Architecture",
+            "Linux",
+            "Networking",
+            "Python",
+            "Troubleshooting"
+        ],
+        "seniority": "Mid-Level",
+        "location": "Bangalore",
+        "description": "Design and maintain cloud infrastructure on AWS/GCP. Ensure 99.9% uptime for all production services and manage CI/CD pipelines."
+    }
+]

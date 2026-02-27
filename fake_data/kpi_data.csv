@@ -1,0 +1,49 @@
+employee_id,employee_name,department,week,metric_name,target,actual,completion_percent
+EMP001,Priya Sharma,Engineering,Week 1,Code Reviews,10,12,120
+EMP001,Priya Sharma,Engineering,Week 2,Code Reviews,10,9,90
+EMP001,Priya Sharma,Engineering,Week 3,Code Reviews,10,7,70
+EMP001,Priya Sharma,Engineering,Week 4,Code Reviews,10,5,50
+EMP002,Arjun Nair,Engineering,Week 1,Features Shipped,3,3,100
+EMP002,Arjun Nair,Engineering,Week 2,Features Shipped,3,4,133
+EMP002,Arjun Nair,Engineering,Week 3,Features Shipped,3,3,100
+EMP002,Arjun Nair,Engineering,Week 4,Features Shipped,3,4,133
+EMP003,Sneha Reddy,Sales,Week 1,Deals Closed,5,6,120
+EMP003,Sneha Reddy,Sales,Week 2,Deals Closed,5,4,80
+EMP003,Sneha Reddy,Sales,Week 3,Deals Closed,5,3,60
+EMP003,Sneha Reddy,Sales,Week 4,Deals Closed,5,2,40
+EMP004,Rohit Verma,Sales,Week 1,Calls Made,50,55,110
+EMP004,Rohit Verma,Sales,Week 2,Calls Made,50,60,120
+EMP004,Rohit Verma,Sales,Week 3,Calls Made,50,58,116
+EMP004,Rohit Verma,Sales,Week 4,Calls Made,50,62,124
+EMP005,Kavitha Sundaram,Support,Week 1,Tickets Resolved,40,38,95
+EMP005,Kavitha Sundaram,Support,Week 2,Tickets Resolved,40,35,88
+EMP005,Kavitha Sundaram,Support,Week 3,Tickets Resolved,40,30,75
+EMP005,Kavitha Sundaram,Support,Week 4,Tickets Resolved,40,28,70
+EMP006,Amit Deshmukh,Support,Week 1,Tickets Resolved,30,32,107
+EMP006,Amit Deshmukh,Support,Week 2,Tickets Resolved,30,31,103
+EMP006,Amit Deshmukh,Support,Week 3,Tickets Resolved,30,33,110
+EMP006,Amit Deshmukh,Support,Week 4,Tickets Resolved,30,34,113
+EMP007,Fatima Khan,HR,Week 1,Candidates Screened,15,14,93
+EMP007,Fatima Khan,HR,Week 2,Candidates Screened,15,16,107
+EMP007,Fatima Khan,HR,Week 3,Candidates Screened,15,15,100
+EMP007,Fatima Khan,HR,Week 4,Candidates Screened,15,17,113
+EMP008,Rajesh Kumar,Engineering,Week 1,Sprint Velocity Points,25,24,96
+EMP008,Rajesh Kumar,Engineering,Week 2,Sprint Velocity Points,25,20,80
+EMP008,Rajesh Kumar,Engineering,Week 3,Sprint Velocity Points,25,16,64
+EMP008,Rajesh Kumar,Engineering,Week 4,Sprint Velocity Points,25,12,48
+EMP009,Deepa Menon,Engineering,Week 1,Models Trained,2,2,100
+EMP009,Deepa Menon,Engineering,Week 2,Models Trained,2,3,150
+EMP009,Deepa Menon,Engineering,Week 3,Models Trained,2,2,100
+EMP009,Deepa Menon,Engineering,Week 4,Models Trained,2,3,150
+EMP010,Vikram Patel,Sales,Week 1,Revenue Target (Lakhs),50,48,96
+EMP010,Vikram Patel,Sales,Week 2,Revenue Target (Lakhs),50,52,104
+EMP010,Vikram Patel,Sales,Week 3,Revenue Target (Lakhs),50,45,90
+EMP010,Vikram Patel,Sales,Week 4,Revenue Target (Lakhs),50,53,106
+EMP011,Lakshmi Iyer,Support,Week 1,Tickets Resolved,35,33,94
+EMP011,Lakshmi Iyer,Support,Week 2,Tickets Resolved,35,28,80
+EMP011,Lakshmi Iyer,Support,Week 3,Tickets Resolved,35,22,63
+EMP011,Lakshmi Iyer,Support,Week 4,Tickets Resolved,35,18,51
+EMP012,Meera Joshi,HR,Week 1,Policy Reviews,4,4,100
+EMP012,Meera Joshi,HR,Week 2,Policy Reviews,4,5,125
+EMP012,Meera Joshi,HR,Week 3,Policy Reviews,4,4,100
+EMP012,Meera Joshi,HR,Week 4,Policy Reviews,4,4,100

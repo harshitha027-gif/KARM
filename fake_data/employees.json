@@ -1,0 +1,247 @@
+[
+  {
+    "id": "EMP001",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@karmcorp.com",
+    "department": "Engineering",
+    "role": "Senior Software Engineer",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis",
+      "SQL",
+      "TensorFlow"
+    ],
+    "join_date": "2020-03-15",
+    "language_preference": "Hindi",
+    "burnout_score": 6.8,
+    "kpi_score": 82.5,
+    "training_completion_percent": 0,
+    "manager": "Rajesh Kumar",
+    "location": "Bangalore"
+  },
+  {
+    "id": "EMP002",
+    "name": "Arjun Nair",
+    "email": "arjun.nair@karmcorp.com",
+    "department": "Engineering",
+    "role": "Junior Developer",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "CSS"
+    ],
+    "join_date": "2023-07-01",
+    "language_preference": "Malayalam",
+    "burnout_score": 0.6,
+    "kpi_score": 116.5,
+    "training_completion_percent": 0,
+    "manager": "Priya Sharma",
+    "location": "Kochi"
+  },
+  {
+    "id": "EMP003",
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@karmcorp.com",
+    "department": "Sales",
+    "role": "Regional Sales Manager",
+    "skills": [
+      "CRM",
+      "Negotiation",
+      "Team Leadership",
+      "Market Analysis"
+    ],
+    "join_date": "2019-11-20",
+    "language_preference": "Telugu",
+    "burnout_score": 7.4,
+    "kpi_score": 75.0,
+    "training_completion_percent": 0,
+    "manager": "Vikram Patel",
+    "location": "Hyderabad"
+  },
+  {
+    "id": "EMP004",
+    "name": "Rohit Verma",
+    "email": "rohit.verma@karmcorp.com",
+    "department": "Sales",
+    "role": "Sales Executive",
+    "skills": [
+      "Cold Calling",
+      "CRM",
+      "Presentation",
+      "Excel"
+    ],
+    "join_date": "2022-01-10",
+    "language_preference": "Hindi",
+    "burnout_score": 0.1,
+    "kpi_score": 117.5,
+    "training_completion_percent": 0,
+    "manager": "Sneha Reddy",
+    "location": "Delhi"
+  },
+  {
+    "id": "EMP005",
+    "name": "Kavitha Sundaram",
+    "email": "kavitha.sundaram@karmcorp.com",
+    "department": "Support",
+    "role": "Customer Support Lead",
+    "skills": [
+      "Customer Service",
+      "Zendesk",
+      "Team Management",
+      "Communication"
+    ],
+    "join_date": "2021-05-18",
+    "language_preference": "Tamil",
+    "burnout_score": 6.0,
+    "kpi_score": 82.0,
+    "training_completion_percent": 0,
+    "manager": "Meera Joshi",
+    "location": "Chennai"
+  },
+  {
+    "id": "EMP006",
+    "name": "Amit Deshmukh",
+    "email": "amit.deshmukh@karmcorp.com",
+    "department": "Support",
+    "role": "Support Agent",
+    "skills": [
+      "Troubleshooting",
+      "Communication",
+      "Jira",
+      "Patience"
+    ],
+    "join_date": "2023-09-05",
+    "language_preference": "Marathi",
+    "burnout_score": 0.1,
+    "kpi_score": 108.2,
+    "training_completion_percent": 0,
+    "manager": "Kavitha Sundaram",
+    "location": "Pune"
+  },
+  {
+    "id": "EMP007",
+    "name": "Fatima Khan",
+    "email": "fatima.khan@karmcorp.com",
+    "department": "HR",
+    "role": "HR Business Partner",
+    "skills": [
+      "Recruitment",
+      "Employee Relations",
+      "Compliance",
+      "Training"
+    ],
+    "join_date": "2018-08-12",
+    "language_preference": "Urdu",
+    "burnout_score": 1.7,
+    "kpi_score": 103.2,
+    "training_completion_percent": 0,
+    "manager": "Meera Joshi",
+    "location": "Mumbai"
+  },
+  {
+    "id": "EMP008",
+    "name": "Rajesh Kumar",
+    "email": "rajesh.kumar@karmcorp.com",
+    "department": "Engineering",
+    "role": "Engineering Manager",
+    "skills": [
+      "Python",
+      "System Design",
+      "Team Leadership",
+      "Agile",
+      "Cloud Architecture"
+    ],
+    "join_date": "2017-02-01",
+    "language_preference": "Hindi",
+    "burnout_score": 6.9,
+    "kpi_score": 72.0,
+    "training_completion_percent": 0,
+    "manager": "Vikram Patel",
+    "location": "Bangalore"
+  },
+  {
+    "id": "EMP009",
+    "name": "Deepa Menon",
+    "email": "deepa.menon@karmcorp.com",
+    "department": "Engineering",
+    "role": "Data Scientist",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "SQL",
+      "Data Visualization"
+    ],
+    "join_date": "2021-10-25",
+    "language_preference": "Malayalam",
+    "burnout_score": 0.3,
+    "kpi_score": 125.0,
+    "training_completion_percent": 0,
+    "manager": "Rajesh Kumar",
+    "location": "Bangalore"
+  },
+  {
+    "id": "EMP010",
+    "name": "Vikram Patel",
+    "email": "vikram.patel@karmcorp.com",
+    "department": "Sales",
+    "role": "VP of Sales",
+    "skills": [
+      "Strategy",
+      "Negotiation",
+      "Team Leadership",
+      "Revenue Planning",
+      "Market Analysis"
+    ],
+    "join_date": "2016-04-10",
+    "language_preference": "Gujarati",
+    "burnout_score": 1.8,
+    "kpi_score": 99.0,
+    "training_completion_percent": 0,
+    "manager": "CEO",
+    "location": "Mumbai"
+  },
+  {
+    "id": "EMP011",
+    "name": "Lakshmi Iyer",
+    "email": "lakshmi.iyer@karmcorp.com",
+    "department": "Support",
+    "role": "Technical Support Specialist",
+    "skills": [
+      "Technical Writing",
+      "Troubleshooting",
+      "Linux",
+      "Networking"
+    ],
+    "join_date": "2022-06-15",
+    "language_preference": "Tamil",
+    "burnout_score": 7.2,
+    "kpi_score": 72.0,
+    "training_completion_percent": 0,
+    "manager": "Kavitha Sundaram",
+    "location": "Chennai"
+  },
+  {
+    "id": "EMP012",
+    "name": "Meera Joshi",
+    "email": "meera.joshi@karmcorp.com",
+    "department": "HR",
+    "role": "Head of HR",
+    "skills": [
+      "Strategic HR",
+      "Organizational Development",
+      "Policy Design",
+      "Compliance",
+      "Leadership"
+    ],
+    "join_date": "2015-01-20",
+    "language_preference": "Hindi",
+    "burnout_score": 1.0,
+    "kpi_score": 106.2,
+    "training_completion_percent": 0,
+    "manager": "CEO",
+    "location": "Mumbai"
+  }
+]
