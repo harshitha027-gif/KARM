@@ -39,12 +39,15 @@ except ImportError:
 # CONFIG & THEME
 # ─────────────────────────────────────────────────────────────
 def setup_page():
-    st.set_page_config(
-        page_title="KARM - Bias Detector",
-        page_icon="⚖️",
-        layout="wide",
-        initial_sidebar_state="expanded"
-    )
+    try:
+        st.set_page_config(
+            page_title="KARM - Bias Detector",
+            page_icon="⚖️",
+            layout="wide",
+            initial_sidebar_state="expanded"
+        )
+    except Exception:
+        pass
     st.markdown("""
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');

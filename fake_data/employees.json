@@ -18,7 +18,8 @@
     "kpi_score": 82.5,
     "training_completion_percent": 0,
     "manager": "Rajesh Kumar",
-    "location": "Bangalore"
+    "location": "Bangalore",
+    "password": "password123"
   },
   {
     "id": "EMP002",
@@ -38,7 +39,8 @@
     "kpi_score": 116.5,
     "training_completion_percent": 0,
     "manager": "Priya Sharma",
-    "location": "Kochi"
+    "location": "Kochi",
+    "password": "password123"
   },
   {
     "id": "EMP003",
@@ -58,7 +60,8 @@
     "kpi_score": 75.0,
     "training_completion_percent": 0,
     "manager": "Vikram Patel",
-    "location": "Hyderabad"
+    "location": "Hyderabad",
+    "password": "password123"
   },
   {
     "id": "EMP004",
@@ -78,7 +81,8 @@
     "kpi_score": 117.5,
     "training_completion_percent": 0,
     "manager": "Sneha Reddy",
-    "location": "Delhi"
+    "location": "Delhi",
+    "password": "password123"
   },
   {
     "id": "EMP005",
@@ -98,7 +102,8 @@
     "kpi_score": 82.0,
     "training_completion_percent": 0,
     "manager": "Meera Joshi",
-    "location": "Chennai"
+    "location": "Chennai",
+    "password": "password123"
   },
   {
     "id": "EMP006",
@@ -118,7 +123,8 @@
     "kpi_score": 108.2,
     "training_completion_percent": 0,
     "manager": "Kavitha Sundaram",
-    "location": "Pune"
+    "location": "Pune",
+    "password": "password123"
   },
   {
     "id": "EMP007",
@@ -138,7 +144,8 @@
     "kpi_score": 103.2,
     "training_completion_percent": 0,
     "manager": "Meera Joshi",
-    "location": "Mumbai"
+    "location": "Mumbai",
+    "password": "password123"
   },
   {
     "id": "EMP008",
@@ -159,7 +166,8 @@
     "kpi_score": 72.0,
     "training_completion_percent": 0,
     "manager": "Vikram Patel",
-    "location": "Bangalore"
+    "location": "Bangalore",
+    "password": "password123"
   },
   {
     "id": "EMP009",
@@ -180,7 +188,8 @@
     "kpi_score": 125.0,
     "training_completion_percent": 0,
     "manager": "Rajesh Kumar",
-    "location": "Bangalore"
+    "location": "Bangalore",
+    "password": "password123"
   },
   {
     "id": "EMP010",
@@ -201,7 +210,8 @@
     "kpi_score": 99.0,
     "training_completion_percent": 0,
     "manager": "CEO",
-    "location": "Mumbai"
+    "location": "Mumbai",
+    "password": "password123"
   },
   {
     "id": "EMP011",
@@ -221,7 +231,8 @@
     "kpi_score": 72.0,
     "training_completion_percent": 0,
     "manager": "Kavitha Sundaram",
-    "location": "Chennai"
+    "location": "Chennai",
+    "password": "password123"
   },
   {
     "id": "EMP012",
@@ -242,6 +253,7 @@
     "kpi_score": 106.2,
     "training_completion_percent": 0,
     "manager": "CEO",
-    "location": "Mumbai"
+    "location": "Mumbai",
+    "password": "password123"
   }
 ]
